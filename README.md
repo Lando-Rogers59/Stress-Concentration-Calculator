@@ -1,0 +1,1 @@
+# Stress-Concentration-Calculator
